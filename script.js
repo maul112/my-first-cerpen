@@ -200,19 +200,6 @@ texts.forEach((text, index) => {
 
     container.appendChild(section);
     main.appendChild(container);
-
-
-    // divider
-    // let divider = document.createElement('div');
-    // divider.classList.add('divider');
-    // let dividerIcon = document.createElement('span');
-    // dividerIcon.classList.add('divider-icon');
-    // dividerIcon.textContent = '❦';
-    // divider.appendChild(dividerIcon);
-    // chapterHeader.appendChild(bagian);
-    // chapterHeader.appendChild(chapterTitle);
-    // chapterHeader.appendChild(divider);
-    // section.appendChild(chapterHeader);
 });
 
 const showEndingButton = document.querySelector('.showEnding');
@@ -220,18 +207,6 @@ const endingText = document.querySelector('.endingText');
 showEndingButton.addEventListener('click', () => {
     endingText.classList.toggle('hidden');
 });
-
-// const pages = document.querySelectorAll('.chapter');
-// Array.from(pages).forEach(page => {
-//     const pageDecorator = document.createElement('div');
-//     pageDecorator.classList.add('page-decoration');
-//     pageDecorator.innerHTML = `
-//         <div class="decoration-line"></div>
-//         <div class="decoration-icon">♥</div>
-//         <div class="decoration-line"></div>
-//     `;
-//     page.appendChild(pageDecorator);
-// })
 
 // Tombol Kembali ke Atas
 const backToTopButton = document.getElementById('backToTop');
