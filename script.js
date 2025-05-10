@@ -128,6 +128,8 @@ const texts = [
                 'Aku tak tahu harus bahagia atau sedih. Aku hanya menatap layar itu dalam keheningan, membiarkan satu tetes air mata jatuh bukan karena luka, tapi karena rindu akan memori itu. Aku menekan tombol “play” pada salah satu video. Suara tawa kami mengisi kamarku yang sunyi. Aku membiarkannya bergema, seolah gema itu memanggil kembali saat-saat itu. Dan malam itu, aku memilih untuk tidak menghapusnya. Biarlah kenangan itu tetap ada, meski hanya bisa kunikmati dalam diam. Karena mungkin, tak semua rasa harus memiliki akhir. Beberapa cukup tinggal sebagai cerita, sebagai pelajaran, dan sebagai bagian dari diriku yang dulu pernah merasa sangat hidup.',
             ]
         },
+    },
+    {
         chapter: {
             title: 'Satu agenda yang meningkatkan rasa kekeluargaan dan momen penting',
             paragraphs: [
@@ -140,6 +142,8 @@ const texts = [
                 'Hari itu mungkin hanyalah satu dari sekian banyak hari di dunia perkuliahan kami, tapi bagiku, itu adalah hari yang membuktikan bahwa kampus ini bukan sekadar tempat belajar. Ini adalah rumah kedua tempat di mana aku tumbuh, tertawa, belajar, dan perlahan mengenal arti dari kebersamaan. Dan ketika nyanyian kami menggema mengiringi langkah kakak tingkat menuju fakultas, aku tahu, suatu hari nanti aku pun akan berjalan di jalur yang sama. Dan aku berharap, ada adik-adik tingkat yang juga akan menyanyikan lagu-lagu itu dengan semangat yang sama, untukku. Karena dalam dunia yang penuh dengan persaingan dan tekanan, kebersamaan seperti inilah yang akan selalu kuingat. Kebersamaan yang membuatku merasa bahwa aku tidak sendiri, bahwa aku adalah bagian dari sesuatu yang lebih besar dari diriku sendiri, keluarga kecil di bawah panji fakultas tercinta.',
             ]
         },
+    },
+    {
         chapter: {
             title: 'Pertama Kali Aku Mengabadikan Memori itu',
             paragraphs: [
@@ -175,6 +179,8 @@ const texts = [
             ],
             quote: 'Untuk pertama kali aku dengannya bisa mengobrol berdua dan pertama kalinya juga aku bisa mengabadikan momen bersamanya. Sedikit sekali gangguan, hanya ditemani suara ombak yang bergulung dan suara keramaian orang-orang disana yang tidak sekali mengganggu.'
         },
+    },
+    {
         chapter: {
             title: 'Menyusuri Pantai',
             paragraphs: [
@@ -339,43 +345,8 @@ const texts = [
                 '',
             ],
             quote: ''
-        },
-        chapter: {
-            title: '',
-            paragraphs: [],
-            quote: ''
-        },
-        chapter: {
-            title: '',
-            paragraphs: [],
-            quote: ''
-        },
-        chapter: {
-            title: '',
-            paragraphs: [],
-            quote: ''
-        },
-        chapter: {
-            title: '',
-            paragraphs: [],
-            quote: ''
-        },
-        chapter: {
-            title: '',
-            paragraphs: [],
-            quote: ''
-        },
-        chapter: {
-            title: '',
-            paragraphs: [],
-            quote: ''
-        },
-        chapter: {
-            title: '',
-            paragraphs: [],
-            quote: ''
-        },
-    }
+        }
+    },
 ];
 
 texts.forEach((text, index) => {
