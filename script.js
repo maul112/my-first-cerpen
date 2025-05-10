@@ -119,9 +119,262 @@ const texts = [
         chapter: {
             title: 'Mencari kenangan yang sempat diabadikan seperti mencari jarum di tumpukan jerami',
             paragraphs: [
-                '',
+                'Setelah mengingat semua kenangan bagaimana aku pertama kali bertemu dan momen-moment selama liburan di villa itu, momen demi momen yang masih terasa begitu dekat di hati, malam itu aku tergerak untuk mencari kembali jejak digital dari memori-memori setelah itu. Entah apa yang memicunya, mungkin rindu yang tak tertahankan, atau mungkin hanya keinginan sederhana untuk melihat kembali senyumnya, terekam dalam frame-frame gambar yang pernah kusimpan. Aku membuka laptopku perlahan, seolah takut akan kecewa. Aku mulai menjelajahi penyimpanan cloud yang dulu rajin kugunakan. Akun demi akun, folder demi folder, file demi file kubuka satu per satu berharap bisa menemukan kembali potongan masa lalu. Namun yang kutemukan hanyalah sebagian kecil dari keseluruhan memori itu. Foto yang tidaklah lengkap, video yang berdurasi pendek, dan rekaman yang hanya menyisakan tawa samar. Seperti ingatan yang perlahan memudar, tak semuanya bisa kupegang erat.',
+
+                'Rasa gelisah mulai menyelinap. Aku bertanya-tanya dalam hati, apakah pernah suatu waktu tanpa sadar aku menghapus sebagian sehingga hanya terdapat sisanya saja? Ataukah aku menyimpannya di tempat lain yang kini terlupakan? Lalu aku teringat ponsel lamaku. Ponsel yang pernah menjadi saksi bisu dari banyak tawa dan obrolan ringan itu sayangnya kini telah rusak, tersimpan di dalam laci, tak bisa dinyalakan kembali. Aku pikir mungkin di situlah seluruh memorinya tersimpan lengkap, tetapi kini hanya menjadi benda mati yang menyimpan masa lalu yang tak bisa kuakses. Aku mencoba untuk tidak putus asa. Kututup semua tab cloud yang kosong, lalu kubuka direktori demi direktori di laptop kesayanganku. Satu demi satu folder kubuka, meski lelah dan mataku mulai lelah oleh cahaya layar. Dan akhirnya di balik folder dengan nama yang bahkan hampir aku lupakan, aku menemukannya. Memori itu.',
+
+                'File demi file muncul di layar. Foto-foto kita saat berdiri di tepi pantai, tertawa di bawah langit senja yang perlahan berubah warna. Video-video saat kita berjalan menyusuri sisi-sisi pantai, dengan rasa penasaran yang tinggi dan tawa yang begitu lepas. Bahkan ada satu rekaman audio, hanya berupa obrolan ringan saat duduk dalam perjalanan menuju pantai diiringi dengan suara hembusan angin, tetapi aku masih bisa mengenali suaranya, cepat, jelas, dan punya cara aneh untuk membuatku tenang. Tanganku berhenti di atas trackpad. Mataku menatap layar tanpa benar-benar fokus. Ada rasa hangat sekaligus perih mengalir bersamaan. Di satu sisi, aku ingin tersenyum karena semua itu masih ada, tersimpan rapi dan lengkap. Tapi di sisi lain, hatiku sesak karena meskipun memorinya utuh, kenyataannya sudah berjalan jauh. Kita telah kembali ke realitas bahwa kita cuman teman biasa, dan dia... dia mungkin sudah tak ingat lagi obrolan kecil yang dulu membuat malam-malamku berarti.',
+
+                'Aku tak tahu harus bahagia atau sedih. Aku hanya menatap layar itu dalam keheningan, membiarkan satu tetes air mata jatuh bukan karena luka, tapi karena rindu akan memori itu. Aku menekan tombol “play” pada salah satu video. Suara tawa kami mengisi kamarku yang sunyi. Aku membiarkannya bergema, seolah gema itu memanggil kembali saat-saat itu. Dan malam itu, aku memilih untuk tidak menghapusnya. Biarlah kenangan itu tetap ada, meski hanya bisa kunikmati dalam diam. Karena mungkin, tak semua rasa harus memiliki akhir. Beberapa cukup tinggal sebagai cerita, sebagai pelajaran, dan sebagai bagian dari diriku yang dulu pernah merasa sangat hidup.',
             ]
-        }
+        },
+        chapter: {
+            title: 'Satu agenda yang meningkatkan rasa kekeluargaan dan momen penting',
+            paragraphs: [
+                'Waktu itu, semester masih berjalan dengan segala rutinitasnya yang padat. Belum lama sejak acara di villa itu usai. Kenangan yang masih hangat terpatri dalam benakku, kampus kembali menghadirkan momen lain yang tak kalah membekas. Fakultas kami mengadakan sebuah agenda latihan penyambutan dan perayaan kelulusan untuk para kakak tingkat yang akan segera diwisuda. Agenda ini bukanlah acara seremonial biasa. Ada semangat kekeluargaan yang begitu kental terasa. Kami, mahasiswa-mahasiswa dari berbagai angkatan, berkumpul dalam satu barisan semangat yang sama. Tujuannya sederhana namun bermakna dalam menjemput para kakak tingkat dari gedung tempat prosesi wisuda dilangsungkan dan mengiringi mereka menuju gedung fakultas yang menjadi saksi perjuangan mereka selama bertahun-tahun.',
+
+                'Yang membuat momen ini begitu istimewa adalah atmosfer kebersamaannya. Kami datang berbondong-bondong, mengenakan atribut kebanggaan fakultas, membawa semangat yang membara. Di tengah-tengah kerumunan itu, terdengar nyanyian-nyanyian penuh semangat yang menggema, lantang namun penuh kehangatan. Suara kami menyatu seperti satu irama—nyanyian yang bukan hanya sekadar hiburan, tapi wujud rasa bangga, hormat, dan terima kasih kepada para kakak tingkat atas inspirasi yang mereka tinggalkan.',
+
+                'Salah satu momen yang paling kuingat dengan jelas adalah ketika bendera besar fakultas kami dikibarkan tinggi-tinggi, melambai gagah di antara lautan manusia. Bendera itu, dengan warnanya yang mencolok dan logo yang familiar, seolah menjadi simbol identitas dan persaudaraan kami. Kami mengaraknya dengan penuh bangga, melewati jalanan kampus, disaksikan oleh mahasiswa-mahasiswa dari fakultas lain. Dalam hatiku, aku merasa begitu bangga bukan hanya karena menjadi bagian dari fakultas ini, tetapi karena dikelilingi oleh teman-teman yang tak hanya cerdas, tetapi juga begitu bersemangat dalam menjunjung tinggi solidaritas. Di tengah keramaian itu, aku sering kali diam sejenak, memandangi wajah-wajah di sekitarku. Wajah-wajah yang mungkin sehari-hari hanya kulihat sekilas di koridor kampus, kini tampak bersinar dalam balutan semangat yang sama. Rasanya hangat. Ada rasa syukur yang mengendap di dada, karena diberi kesempatan untuk menjalani masa-masa ini bersama orang-orang yang peduli, yang bersorak bukan hanya untuk diri mereka sendiri, tapi untuk orang lain yang telah lebih dulu menapaki jalan ini.',
+
+                'Hari itu mungkin hanyalah satu dari sekian banyak hari di dunia perkuliahan kami, tapi bagiku, itu adalah hari yang membuktikan bahwa kampus ini bukan sekadar tempat belajar. Ini adalah rumah kedua tempat di mana aku tumbuh, tertawa, belajar, dan perlahan mengenal arti dari kebersamaan. Dan ketika nyanyian kami menggema mengiringi langkah kakak tingkat menuju fakultas, aku tahu, suatu hari nanti aku pun akan berjalan di jalur yang sama. Dan aku berharap, ada adik-adik tingkat yang juga akan menyanyikan lagu-lagu itu dengan semangat yang sama, untukku. Karena dalam dunia yang penuh dengan persaingan dan tekanan, kebersamaan seperti inilah yang akan selalu kuingat. Kebersamaan yang membuatku merasa bahwa aku tidak sendiri, bahwa aku adalah bagian dari sesuatu yang lebih besar dari diriku sendiri, keluarga kecil di bawah panji fakultas tercinta.',
+            ]
+        },
+        chapter: {
+            title: 'Pertama Kali Aku Mengabadikan Memori itu',
+            paragraphs: [
+                'Kita satu fakultas. Dan hari itu, aku benar-benar ingin ikut agenda latihan perayaan wisuda yang akan digelar siang menjelang sore. Setelah sekian waktu berlalu tanpa pertemuan, tanpa sapa, aku merasa ini mungkin jadi kesempatan bagus. Kita? Ya, kita—aku dan dia. Sosok yang sempat mengisi ruang hariku, namun kini hanya berbalut kenangan samar.',
+
+                'Tanpa pikir panjang, aku menghubunginya. Jari-jariku sedikit gugup saat mengetik pesan. "Kamu mau ikut agenda latihan itu?" tanyaku, berusaha terdengar santai meski sebenarnya penuh harap. Beberapa detik kemudian, balasan itu datang. "Iya, aku ingin ikut serta juga loh!" Senyumku langsung merekah. Rasanya seperti mendapat kejutan kecil yang menyenangkan.',
+
+                'Tapi lalu aku terdiam sejenak. Ada masalah kecil. Aku tidak punya kendaraan untuk ke kampus hari itu, apalagi kalau ingin berangkat bersamanya. Namun entah bagaimana, semesta seperti mendukung langkahku. Seorang teman kebetulan tidak ikut latihan dan dengan murah hati meminjamkan motornya padaku. Aku langsung menghubunginya lagi.',
+
+                '"Aku jemput ya, kita bareng," tawarku pelan, berharap dia tak menolaknya. "Boleh sih, ayok," balasnya ringan. Dan lagi-lagi, senyumku mengembang. Untuk kedua kalinya hari itu, aku merasa begitu beruntung.',
+
+                'Tapi di sela euforia itu, aku berfikir sejenak. Di agenda latihan nanti, pasti kita akan sibuk, fokus dengan kegiatan masing-masing. Belum tentu aku bisa banyak bicara dengannya. Padahal... aku ingin. Ingin sekali mengobrol, bercerita, menertawakan hal-hal kecil yang sempat tertinggal saat kita terakhir bertemu. Lalu sebuah ide muncul: bagaimana kalau setelah latihan, aku ajak dia ke pantai?',
+
+                'Tanpa ragu, aku kirimkan pesan lagi. "Oh iya, habis agenda latihan, kita ke pantai bentar boleh?". Harapanku menggantung di antara kata-kata itu. Tak lama kemudian, balasan yang kutunggu datang. "Pantai? Boleh juga tuh, ayok lah." Seketika dadaku terasa hangat. Bahagia kecil yang sederhana. Tawaranku disambut, dua kali. Tak mau membuang waktu, aku segera meluncur menjemput ke kosnya. Saat dia keluar lalu naik ke motor, hatiku berdebar pelan. Bukan karena perjalanan yang akan kami tempuh, tapi karena kebersamaan yang akan kembali hadir walau sebentar.',
+
+                'Setibanya di kampus, suasana mulai ramai. Mahasiswa dari berbagai jurusan berkumpul, semangat latihan terlihat dari wajah-wajah yang antusias. Sayangnya, seperti yang sudah kuduga, kami harus berpisah sesuai dengan jurusan masing-masing. Aku di barisan prodi A, dia di barisan prodi B. Yah... kalau tadi aku diberi dua keberuntungan, sekarang giliran dua sedikit kekecewaan kecil menghampiri(tadi aku diberi dua keberuntungan, sekarang aku diberi dua sedikit kekecewaan kecil, jadi seimbang).',
+
+                'Sedikit kecewa? Iya. Tapi aku mencoba menenangkan diri. Toh aku juga ingin berkumpul dengan teman-teman prodiku. Dan meskipun kami terpisah barisan, kami masih berada di satu lapangan. Aku masih bisa diam-diam mencuri pandang ke arahnya memastikan dia baik-baik saja di tengah kerumunan. Ada sesuatu yang berbeda hari itu. Bukan hanya karena kami akan merayakan kelulusan kakak tingkat, tapi juga karena ada harapan kecil dalam hatiku: bahwa setelah ini, di tepi pantai nanti, akan ada percakapan yang tak sempat tersampaikan sebelumnya. Mungkin di sana, waktu akan lebih lambat berjalan. Dan mungkin, hanya mungkin, jarak diantara kita yang sempat terbentuk bisa sedikit demi sedikit terurai.',
+
+                'Setelah latihan selesai, aku segera menghampirinya. Agenda di lapangan telah berakhir menunjukkan pukul lima sore, dan aku sempat khawatir dia akan mengurungkan niat untuk pergi ke pantai, mengingat waktu yang sudah cukup sore menjelang malam. Tapi, untungnya dia tetap memegang janjinya. Meski awalnya ragu, ia akhirnya tersenyum dan berkata, “Ayoklah, kapan lagi.”',
+
+                'Kami pun berangkat. Tujuan kami bukan pantai dengan pasir putih membentang atau kafe mewah di pinggir laut, tapi sebuah tempat sederhana: jalan kecil yang sedikit menjorok ke arah laut, semacam dermaga mini dengan tempat duduk seadanya. Di sanalah orang-orang biasa nongkrong, menyeruput minuman hangat sambil menatap laut lepas yang bersahabat ditemani senja yang perlahan turun. Begitu sampai, aku lega. Tempatnya tidak mengecewakan. Meski sederhana, suasananya justru memberi rasa hangat. Angin laut berembus pelan, aroma garam menyatu dengan hawa lembap yang menenangkan. Kami langsung memesan minuman bukan kopi, meskipun tempatnya seperti mengajak untuk menyeruput kopi hangat. Aku lupa kami pesan apa waktu itu, mungkin teh, atau minuman manis dingin. Tak penting rasanya, karena yang utama adalah percakapan yang akan terjadi.',
+
+                'Kami beruntung masih kebagian tempat duduk di tengah keramaian sore itu. Meja kayu sederhana, dua kursi plastik yang sedikit berderit waktu kami duduk. Tapi itu cukup. Lebih dari cukup. Lalu percakapan itu mengalir. Seperti sungai yang melimpah setelah hujan. Dia, dengan gaya khasnya, cepat, lantang, penuh semangat membawa obrolan dari satu topik ke topik lainnya. Rasanya seperti sedang membuka buku yang penuh kejutan di setiap halamannya. Ia bercerita tentang kehidupan kuliah, tentang momen-momen ospek yang lucu dan memalukan, tentang guru matematika favoritnya yang membuat rumus-rumus rumit terasa menyenangkan. Aku tersenyum, karena aku juga suka matematika. Dan di sanalah, kami sejenak tenggelam dalam obrolan kecil tentang logika dan angka, di tengah tempat yang jauh dari hitungan-hitungan eksak.',
+
+                'Kemudian, entah bagaimana, topik berpindah pada pernikahan. Ia tertawa menceritakan bahwa adat pernikahan di daerah asalnya butuh biaya besar. “Mahal banget! Bisa-bisa kerja tiga tahun cuma buat itu,” candanya, diiringi tawa lepas yang membuat sore itu terasa lebih hidup. Aku memperhatikan wajahnya. Cerah. Antusias. Tidak ada canggung di antara kami. Seperti dua sahabat lama yang akhirnya dipertemukan kembali oleh waktu. Di sela gelak tawa dan suara angin, tiba-tiba aku terpikir sesuatu. Suaranya yang khas, penuh warna, jujur, dan hidup. Entah mengapa aku ingin mengabadikannya. Mungkin karena aku tahu, momen seperti ini mungkin suatu saat tidak akan terjadi lagi.',
+
+                'Dengan diam-diam, aku membuka aplikasi perekam suara di ponselku. Kuletakkan di sisi meja, berusaha agar tidak mengganggu. Suara angin memang berisik, tapi untungnya ponselku walaupun kentang, tetapi cukup canggih untuk menangkap percakapan kami dengan cukup jelas. Aku mendengarkannya bicara, sambil sesekali menanggapi dengan senyuman atau komentar kecil. Aku tak ingin memotong semangatnya. Aku ingin momen ini berjalan alami. Mengalir begitu saja.',
+
+                'Waktu terus berjalan. Tanpa sadar, jam hampir menunjukkan pukul enam. Senja sudah mulai benar-benar tenggelam. Warna langit berubah perlahan menjadi ungu keabu-abuan. Kami pun memutuskan untuk pulang, tak ingin terlalu larut di luar. Sebelum benar-benar bangkit dari kursi, aku mematikan perekaman suara itu. Tapi tak cukup sampai di situ, dengan sedikit keberanian, aku membuka kamera dan merekam video singkat. Hanya beberapa detik. Ia tertawa di dalam video itu, menoleh sebentar ke arahku, bertanya, “Apaan sih?” sambil tersenyum malu-malu. Tapi itu cukup. Cukup untuk jadi potongan kecil dari kenangan yang lebih besar.',
+
+                'Kami akhirnya kembali ke tempat masing-masing, berboncengan pulang selagi langit belum benar-benar gelap. Tak ada pelukan perpisahan, tak ada kata yang terlalu manis. Tapi ada rasa hangat yang tertinggal. Dan itulah, mungkin, memori singkat pertama yang benar-benar kuabadikan bersamanya. Bukan hanya dalam bentuk rekaman atau video, tapi dalam ingatan yang barangkali akan tetap ada, bahkan ketika file-file digital itu hilang.',
+            ],
+            quote: 'Untuk pertama kali aku dengannya bisa mengobrol berdua dan pertama kalinya juga aku bisa mengabadikan momen bersamanya. Sedikit sekali gangguan, hanya ditemani suara ombak yang bergulung dan suara keramaian orang-orang disana yang tidak sekali mengganggu.'
+        },
+        chapter: {
+            title: 'Menyusuri Pantai',
+            paragraphs: [
+                'Hari itu, kampus terasa lebih lengang dari biasanya. Mata kuliah terakhir baru saja selesai, dan aku memutuskan untuk tak langsung pulang. Langkahku membawaku ke salah satu gedung yang tengah ramai dibicarakan teman-teman. Ada event diskon buku besar-besaran di sana. Pameran buku semacam ini selalu punya daya tarik sendiri. Bahkan ketika dompet sedang tak bersahabat, godaan untuk sekadar melihat-lihat sulit untuk ditolak.',
+
+                'Begitu sampai di lokasi, mataku langsung dimanjakan oleh tumpukan buku dengan cover-cover menarik. Ada aroma khas kertas baru yang menguar tipis, membangkitkan rasa senang yang sulit dijelaskan. Fiksi, non-fiksi, biografi, hingga buku pengembangan diri semuanya tersusun rapi, memanggil-manggil untuk disentuh, dibuka, dan dibaca. Aku berjalan pelan menyusuri deretan meja panjang, memindai judul-judul menarik sambil menahan keinginan untuk membeli semuanya.',
+
+                'Lalu, seakan waktu berputar kembali, aku melihat sosok yang tidak asing berdiri tak jauh dari rak novel. Dia. Seseorang yang sudah memberi warna pada satu bagian dari hariku yang lalu, senja di tepi laut, tawa yang direkam, percakapan yang terus teringat meski sudah sedikit lama tak terdengar. Seketika, senyum kecil mengembang di wajahku. Bukan senyum lebar yang dipaksakan, tapi senyum yang muncul karena kehadirannya sendiri sudah cukup membuat hari itu terasa sedikit lebih istimewa.',
+
+                'Aku mendekat, berusaha tidak terlalu terburu-buru. “Mau beli buku?” tanyaku ringan, berusaha membuka obrolan sealamiah mungkin.',
+
+                '“Niatnya sih gitu, tapi masih bingung mau beli yang mana,” jawabnya sambil menatap tumpukan buku, matanya bergerak cepat membaca judul satu per satu.',
+
+                'Aku mengangguk pelan, lalu berkata sambil sedikit mencondongkan badan ke arah rak, “Yaudah, liat-liat aja dulu, aku temenin ya.”',
+
+                'Dia menoleh sebentar, tersenyum singkat sambil menjawab, “Hmm, okee.” Dan senyumku pun semakin jelas terasa. Tidak terlalu besar, sederhana tapi nyata.',
+
+                'Kami pun berjalan pelan di antara lorong-lorong tumpukan buku. Sesekali aku melihat buku yang menarik dan menunjukkannya kepadanya, berharap itu sesuai seleranya. Sempat kami membicarakan singkat tentang genre yang kami suka, atau menertawakan sinopsis yang terasa terlalu dramatis. Dia lebih suka fiksi dengan tokoh perempuan yang kuat dan cerita yang membumi. Sedangkan aku kadang lebih tertarik dengan buku-buku yang banyak merenung, entah itu filsafat ringan atau cerita-cerita yang membuat berpikir lama setelah halaman terakhir ditutup. Waktu berjalan pelan, dan di tengah tumpukan buku itu, obrolan kami terasa ringan tapi penuh makna. Tak perlu banyak gestur, tak butuh keramaian. Cukup dua orang yang kebetulan dipertemukan di antara buku-buku yang belum tentu kita beli.',
+
+                'Sesekali mataku lebih tertuju ke arahnya ketimbang ke buku-buku di depan kami. Ada sesuatu yang ingin kuabadikan lagi, bukan lewat kamera, tapi cukup lewat ingatan. Detik-detik seperti ini yang kelihatannya biasa saja, bisa jadi akan aku kenang suatu hari nanti. Aku tidak tahu apakah hari ini akan berarti untuknya seperti halnya untukku. Tapi bagiku, melihat dia lagi di antara buku-buku itu, ditemani aroma kertas dan suara lembut halaman dibalik, sudah cukup untuk menjadi bab kecil lain dalam kisah yang tak pernah benar-benar aku rencanakan.',
+
+                'Setelah kesana kemari menyusuri rak-rak buku, seperti mencari jarum di tumpukan jerami, dia akhirnya menoleh padaku dan berkata dengan nada sedikit lesu, “Keknya aku gajadi beli deh.”',
+
+                'Aku menoleh, sedikit terkejut. “Lah, kenapa?”',
+
+                'Dia menghela napas kecil, lalu menjawab sambil tertawa ringan, "Bukunya banyak yang bagus-bagus, jadi malah bingung mau milih yang mana. Takut nyesel kalau salah pilih.”',
+
+                'Aku ikut tersenyum, memaklumi kegundahan yang sangat manusiawi itu. “Hmm, yaudah nggak apa-apa. Kadang emang gitu sih. Mungkin lain kali bisa balik lagi. Sekarang kita nikmati aja liat-liat bukunya, banyak yang seru juga.”',
+
+                'Kami pun kembali melangkah perlahan, membiarkan mata kami tersesat lagi di antara lautan sampul yang penuh warna dan judul-judul yang memancing rasa penasaran. Tapi di tengah hiruk-pikuk pengunjung, pikiranku mulai melayang ke tempat lain lebih tepatnya ke sebuah ide spontan yang perlahan tumbuh di benakku. Aku menoleh ke arahnya, melihat bagaimana dia tampak begitu hidup di tengah dunia buku yang nyaris membius siapa pun. Dan entah kenapa, aku merasa ingin mengulang momen berdua seperti waktu itu di pantai, di bawah langit terbuka, dengan percakapan yang tak diburu waktu.',
+
+                'Tanpa pikir panjang, aku memberanikan diri bertanya, “Gini, daripada kamu bingung milih buku... bagaimana kalau kita ke pantai?” Dia menoleh cepat, ekspresinya bercampur antara kaget dan penasaran. “Ke pantai lagi?” tanyanya, matanya berbinar sedikit. Lalu dengan nada bercanda dia menambahkan, “Ayo sih... tapi ke pantai yang pesisir yaa.” Aku tertawa kecil, merasa beruntung karena aku tahu persis tempat yang dimaksud. “Ayo. Aku tahu satu tempat, nggak jauh dari sini. Ada pesisirnya, dan... kita bisa lihat sunset juga.”',
+
+                'Senyumnya tumbuh, dan anggukan kecil darinya sudah cukup membuatku lega. Jam baru menunjukkan sekitar pukul tiga sore. Matahari masih tinggi, tapi tidak lagi menyengat. Dan untungnya, sejak pagi tadi aku sudah meminjam motor temanku untuk ke kampus. Rasanya seperti kebetulan yang berpihak. Kami pun bergegas keluar dari area pameran buku, menyusuri jalan kampus menuju parkiran. Tak lama kemudian, kami sudah melaju berdua di atas motor, membelah jalanan kota kecil yang tidak terlalu ramai. Sesekali dia menunjuk sesuatu di pinggir jalan, warung dengan nama lucu, mural di tembok sekolah, atau papan reklame nyeleneh. Kami tertawa, saling bertukar cerita ringan di sela suara angin. Didalam perjalanan itu, terdapat banyak sekali obrolan antara kita walaupun angin menghembus sedikit menghalangi pendengaranku. Aku menyadari itu dan memutuskan untuk diam-diam merekam percakapan kita diperjalanan itu dengan ponselku yang kentang itu. Tak akan aku matikan rekaman itu sampai kita pulang ke kos masing-masing.',
+
+                'Pantai yang kutuju letaknya agak masuk ke kawasan militer. Tapi sudah menjadi rahasia umum bahwa warga masih boleh masuk ke sana, asal tidak melewati batas tertentu. Jalan menuju ke sana tidak begitu mulus, tapi pemandangannya mulai memanjakan mata. Pepohonan rindang di kiri-kanan jalan, jembatan terpanjang se Indonesia yang berdiri kokoh dan megah, dan suara burung sesekali menemani perjalanan kami.',
+
+                'Dan akhirnya... kami tiba.',
+
+                'Sesampainya di pantai itu, wajahnya langsung dipenuhi oleh rasa kaget sekaligus kagum dengan pemandangan pantai ditempat itu. Dia langsung memutuskan untuk mengeksplor dengan rasa kepenasaranan yang tinggi. Aku merasa sedikit aneh kenapa dia bisa sepenasaran itu dengan laut, ya aku tahu kalau aku sudah terbiasa dengan pemandangan pantai jadi rasa penasaranku tidak setinggi dia. Tetapi aku cukup senang karena dengan itu berarti aku membawanya ke tempat yang tepat.',
+
+                'Pantainya tidak ramai, hanya ada beberapa pengunjung yang duduk di pasir atau bermain air di tepi laut. Hamparan pasir membentang lembut, bebatuan yang menancap ke pasir, dan debur ombak terdengar menenangkan. Di kejauhan, garis horizon kota seberang laut tampak jelas sedikit samar menyatu dengan langit yang perlahan mulai berubah warna. Kami berjalan menyusuri pesisir, mencari tempat yang nyaman untuk duduk. Tidak ada kursi atau gazebo mewah, hanya pasir dan batu-batu yang cukup rata untuk diduduki. Tapi justru kesederhanaan itulah yang membuat tempat ini terasa lebih dekat dengan hati.',
+
+                '“Tempatnya bagus juga ya,” katanya sambil menatap laut.',
+
+                '“Iya. Di sini bisa lihat matahari pulang ke peraduan,” balasku sambil ikut menatap jauh ke arah cakrawala.',
+
+                'Angin laut menyapu pelan rambutnya. Sesekali dia menyelipkannya ke belakang telinga sambil tersenyum kecil. Obrolan pun mengalir begitu saja sembari dia dengan penuh semangat menyusuri sisi demi sisi pantai itu, melihat kepiting yang menari-nari, ikan-ikan yang berenang, ubur-ubur yang terdampar, dan makhluk air lainnya yang sewajarnya ada di pesisir pantai. Sesekali dia berhenti, lalu berjongkok memandangi sesuatu yang menarik perhatiannya. Dia dengan rasa penasaran yang tinggi sering menanyakan kepadaku "ini hewan apa ya kok unik". Aku dengan sedikit pengetahuanku tentang makhluk air dengan senang membantu mengobati rasa keingin tahuannya. Sepotong karang kecil berbentuk aneh atau bahkan ombak kecil yang datang seolah menyapa ujung sepatunya. Ekspresi di wajahnya seperti anak kecil yang menemukan dunia baru, dan aku... hanya bisa memperhatikannya dari belakang, sambil sesekali tertawa kecil. Aku tidak menyangka seseorang bisa begitu bersemangat hanya karena pantai. Senang sekali perasaanku waktu itu. Kami tertawa bersama. "Pelan pelan ya jalannya soalnya berbatu takut kepeleset" peringatku. "Oke!" jawabnya singkat namun penuh bahagia.',
+
+                'Langit perlahan berubah menjadi semburat jingga, seolah ikut menyaksikan dua orang yang sedang diam-diam menciptakan kenangan baru. Dalam hati aku tahu, sore ini bukan sekadar jalan ke pantai. Tapi dalam hati, aku sungguh-sungguh. Dia memang menyatu dengan pemandangan sore itu. Langit jingga yang mulai menghangat, ombak kecil yang berlari pelan ke pesisir, dan cahaya matahari yang memantul lembut di wajahnya. Semuanya terasa tepat. Semuanya terasa... damai.',
+
+                'Ketika dia sedang asyik menelusuri sisi lain pantai, aku mengambil ponselku dan memotret dari kejauhan. Rambutnya tertiup angin, dan laut di belakangnya membentang luas seperti dunia yang menunggu untuk dijelajahi. Aku mengabadikan momen itu diam-diam, berharap suatu hari bisa menunjukkan padanya betapa bahagianya dia saat itu dan betapa bahagianya aku bisa menyaksikannya. Beberapa kali aku mengajaknya berfoto bersama. Awalnya dia agak malu, tapi akhirnya luluh juga setelah kubujuk. Kami mengambil beberapa foto dengan wajah ceria, bahkan ada satu dua yang sengaja kami buat lucu. Aku menyimpan semuanya dalam satu folder khusus di galeri ponselku yang kentang ini, folder yang sengaja kuberi nama inisial kami berdua ditambah Day Series.',
+
+                'Sinar matahari mulai meredup, menandakan bahwa senja sudah mendekap langit dengan warnanya yang paling syahdu. Sayangnya sang senja tidak begitu terlihat luas keindahannya. Mungkin itu merupakan salah satu kekurangannya dari tempat itu.',
+
+                '"Yah, sunset-nya tidak begitu kelihatan," ucapnya dengan sedikit nada kecewa.',
+
+                '"Iya nih, agak ketutup pepohonan" jawabku ikut merasakan kekecewaannya, meskipun masih terselip harapan kecil di dalam hati. "Mau pindah tempat?" tawarku.',
+
+                '"Bolehlah, tapi yang sunset-nya kelihatan ya," pintanya dengan penuh harap, sorot matanya seolah berkata bahwa dia belum ingin mengakhiri hari ini.',
+
+                '"Iya, aman. Aku tahu juga kok tempatnya," jawabku meyakinkan, sambil menyalakan motor dan bersiap mengantar dia ke lokasi kedua.',
+
+                'Kami beranjak dari pesisir pertama untuk melihat indahnya langit sore lebih jelas lagi. Di perjalanan singkat itu aku menanyakan kenapa dia begitu senangnya menyusuri sisi demi sisi pantai.',
+
+                '"Kenapa kamu kelihatan seneng banget sih tadi di pantai?" tanyaku, penasaran sekaligus kagum dengan semangatnya yang tak habis-habis.',
+
+                '"Iya, karena aku jarang banget lihat pantai. Di tempat tinggalku gak ada pantai, bahkan buat lihat laut pun harus pergi jauh," jawabnya sambil menatap jalanan yang mulai keemasan oleh cahaya senja.',
+
+                'Aku hanya mengangguk pelan, berusaha memahami dan menyimpan setiap kata-katanya. Dalam hati, aku merasa... beruntung. Karena tanpa disadari, hari ini aku sudah menghadirkan kebahagiaan sederhana untuknya bahkan hanya dengan memperlihatkan laut.',
+
+                'Sesampainya di tempat itu yang lebih luas horizon untuk melihat senja. Tempat itu merupakan pelabuhan kapal feri. Tempat umum, terbuka, dan tidak terlalu ramai saat itu. Angin dari laut terasa lembut, menerpa wajah dan membuat suasana terasa semakin hidup. Langit tampak lebih terbuka di sini. Garis cakrawala tampak jelas, dan matahari sore mulai menuruni langit dengan warna jingga bergradasi menjadi keemasan yang begitu menenangkan, dan perlahan sinar matahari mulai menembus celah awan, menampakkan dirinya.',
+
+                '“Wah bagus banget mataharinya, orange!” serunya dengan mata berbinar, seolah menemukan sesuatu yang sudah lama ingin ia lihat.',
+
+                'Aku ikut menatap langit yang kini mulai menampakkan warna-warna senja paling sempurna.',
+
+                '“Ya kan? Bagus kan, Kamu suka?” tanyaku sambil tersenyum, merasa bangga karena bisa membawanya ke tempat ini.',
+
+                '"Banget. Ini... indah banget," katanya tanpa menoleh, seperti tak ingin melewatkan satu detik pun dari keindahan itu.',
+
+                'Dia mengangkat ponselnya, ingin mengabadikan momen langka itu. Tapi kemudian menghela napas kecil.',
+
+                '“Yah, HP-ku kentang, jadi burik motret senjanya,” keluhnya sambil menatap layar ponselnya yang penuh noise.',
+
+                'Aku tertawa kecil dan tanpa pikir panjang ikut mengangkat ponselku yang sama-sama kentangnya dan mencoba mengambil gambar senja.',
+
+                '“Nih, tak coba ya. Siapa tahu hasilnya lumayan.”',
+
+                'Dia mendekat, ikut melihat hasilnya.',
+
+                '“Iih, lumayan bagus ya! HP-mu gak kayak HP-ku,” ujarnya sambil terkekeh.',
+
+                '“Ah masa, HP-ku juga kentang loh,” bantahku.',
+
+                '“Tapi bagus,” sanggahnya cepat, dengan suara yang terdengar seperti pujian yang tulus.',
+
+                'Aku tersenyum, tak ingin memperdebatkan lebih lanjut.',
+
+                '“Yaudah, nanti tak kirim ya. Kamu nikmati aja senjanya sekarang.”',
+
+                'Dia mengangguk, lalu kembali menatap langit. Wajahnya dipenuhi ketenangan, cahaya matahari membingkai sisi wajahnya dengan hangat. Aku mengalihkan pandangan dari langit ke dirinya karena jujur saja, saat itu tak ada pemandangan yang lebih menarik selain dia yang sedang larut dalam keindahan alam dan wajahnya yang bersinar terkena cahaya orange. Sempat ada candaan kecil yang membuat kami tertawa.',
+
+                '“Apa kita jadi pengamen aja ya, biar bisa beli HP bagus, biar bisa motret senja kayak orang-orang,” celetuknya.',
+
+                '“Wah ide bagus tuh! Kamu nyanyi, aku main alat musiknya. Atau sebaliknya ya?”',
+
+                'Kami tertawa bersama. Tawa ringan, tanpa beban, seperti angin laut yang bermain-main di sela-sela rambutnya.',
+
+                'Di sekitar kami, ada sepasang suami istri muda bersama anak kecil mereka yang masih mungil dan lucu sekitar umur 2 tahun dan sudah bisa berjalan. Anak itu tertawa kecil saat mengejar burung-burung laut, langkah kakinya masih goyah namun lucu. Dia memperhatikan mereka, matanya lembut.',
+
+                '“Ih anaknya lucu banget... Mereka kayaknya bahagia banget ya.”',
+
+                'Aku ikut melihat ke arah keluarga kecil itu.',
+
+                '“Iya... bahagia itu... sederhana ya.”',
+
+                'Aku tak melanjutkan. Tapi dalam hati aku berkata: Mungkinkah kita... suatu saat... bisa seperti mereka?',
+
+                'Aku menatap wajahnya sekali lagi. Kali ini tanpa senyum, hanya tatapan diam yang penuh makna. Senja dan dermaga. Sekarang kalian berdua bukan hanya latar, tapi saksi. Saksi dari kebersamaan yang pelan-pelan berubah jadi sesuatu yang sulit dijelaskan dengan kata. Aku merasa seperti mengenal diriku sendiri lebih baik saat bersamanya.',
+                
+                'Dan kamu, Senja...',
+
+                'Engkau tak hanya menutup hari ini dengan warna paling indah, tapi juga menenun rasa dalam diamku. Engkau membuat segalanya terasa pas. Tak sempurna, tapi pas. Hangat, meski angin berhembus. Tenang, meski hati sebenarnya ramai. Engkau telah menjadi teman terbaikku yang bisa mengerti perasaanku.',
+
+                'Ketika akhirnya mentari benar-benar tenggelam, menyisakan langit yang perlahan berubah ungu tua, aku menarik napas dalam-dalam. Tak ada kata yang bisa merangkum hari itu secara utuh. Tapi satu yang pasti: Hari itu... dia bahagia. Dan aku... lebih dari sekadar bahagia. Aku bersyukur.',
+
+                'Kami duduk berdua di atas motor. Tak ada suara selain desiran angin, ombak, dan detak jantungku yang entah kenapa terasa lebih cepat.',
+
+                'Kami diam, tapi bukan karena kehabisan topik. Kami diam karena tahu, momen seperti ini tak perlu dijelaskan. Cukup dinikmati. Tak banyak bicara yang terlontar, hanya diam dan pandangan yang saling mengerti. Terkadang, momen terindah memang tidak diisi dengan kata-kata, cukup hadir, cukup bersama. Dan ketika matahari benar-benar tenggelam, menyisakan garis cahaya terakhir di ujung cakrawala, aku sempat mengabadikannya bukan dengan kamera, tapi dengan hatiku.',
+
+                'Dalam larut menikmati indahnya perpaduan antara birunya laut dan jingganya langit sore, perasaan itu seperti tumbuh perlahan. Bagaikan bunga mawar yang dengan tenang mulai membuka kelopaknya, satu demi satu—tanpa tergesa. Ada keheningan yang tidak canggung di antara kami, hanya keheningan yang dipenuhi ketenangan. Tak perlu banyak kata. Cukup angin laut, cahaya senja, dan dua insan yang sama-sama menyimpan sesuatu di dalam hati.',
+
+                'Aku memperhatikan wajahnya dari samping, bagaimana senyumnya seakan menyatu dengan hangatnya cahaya matahari yang perlahan tenggelam di ufuk barat. Rasanya seperti dunia memang menciptakan waktu ini agar bisa ia nikmati sepenuhnya. Dan aku, merasa cukup hanya dengan menjadi bagian dari dunia kecil itu, menjadi saksi dari tawa kecil dan matanya yang berbinar menatap langit.',
+
+                'Langit berubah, dari jingga menjadi ungu kelam. Matahari seolah mengucapkan selamat tinggal, berjanji akan kembali esok. Dan dinginnya malam mulai terasa, perlahan menggeser hangatnya sore. Kami masih duduk di atas motor, bersebelahan, tak banyak bicara tapi hati terasa penuh. Pelabuhan ini sederhana, tidak ramai, namun entah bagaimana mampu menyimpan kenangan yang akan selalu lekat dalam ingatanku.',
+
+                'Setelah senja benar-benar meredupkan cahayanya, suasana mulai sunyi. Burung-burung telah kembali ke sarangnya. Angin mulai menusuk pelan, tanda malam akan segera datang menyelimuti. Kami memutuskan untuk pulang, seperti biasa. Tidak ada perpisahan yang berat, hanya rutinitas yang terasa berbeda karena hati sedang membawa pulang lebih dari sekadar tubuh, kami membawa pulang kenangan.',
+
+                '"Makasih ya, udah ngajak aku ke sini," ucapnya pelan.',
+
+                'Aku menoleh ke arahnya, tersenyum, dan menjawab, "Aku juga makasih. Udah mau nemenin soreku hari ini."',
+
+                'Dalam hati, aku ingin mengatakan lebih. Bahwa bukan hanya sore ini yang terasa berarti, tapi setiap detik bersamanya sejak di kampus tadi, sejak acara diskon buku yang membuat kami bertemu tanpa rencana. Tapi aku tahan semuanya. Biar perasaan itu tetap di sini dulu di tempat yang sama dengan matahari yang kini hampir tenggelam.',
+
+                'Sebelum menyalakan motor, aku diam-diam mengatur perekam suara di ponselku. Rekaman sederhana, tapi bagiku begitu berharga. Aku ingin menyimpan setiap potongan percakapan dalam perjalanan pulang ini. Ingin mengingat nada suaranya, tawanya yang lepas ketika kita membahas hal-hal receh, bahkan diam-diamnya ketika dia melihat langit malam yang perlahan muncul. Segala sesuatu yang kecil tapi penuh makna.',
+
+                'Perjalanan pulang itu seperti melanjutkan irama yang sempat tertunda. Di jalan, kami bicara seadanya, tertawa pelan, dan kadang saling diam namun tahu bahwa masing-masing sedang mengingat sesuatu dari hari itu. Aku tidak tahu apakah dia sadar bahwa perasaanku perlahan tumbuh hari ini. Tapi aku tahu satu hal dengan pasti: hari itu telah menjadi salah satu hari paling berarti dalam hidupku. Bukan karena senjanya saja. Tapi karena aku melewatinya bersama dia.',
+
+                'Dan perekaman itu terus berjalan. Tak akan kumatikan sampai aku benar-benar tiba di tempatku. Karena aku tahu, suatu saat nanti ketika rindu datang tiba-tiba, aku hanya perlu memutarnya walaupun tidak akan bisa sepenuhnya mengobati rasa rindu. Mendengar suaranya, mendengar versi kita yang sederhana, dan mengingat bahwa pernah ada satu sore di pelabuhan kecil, tempat aku jatuh cinta dalam diam.',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+            ],
+            quote: ''
+        },
+        chapter: {
+            title: '',
+            paragraphs: [],
+            quote: ''
+        },
+        chapter: {
+            title: '',
+            paragraphs: [],
+            quote: ''
+        },
+        chapter: {
+            title: '',
+            paragraphs: [],
+            quote: ''
+        },
+        chapter: {
+            title: '',
+            paragraphs: [],
+            quote: ''
+        },
+        chapter: {
+            title: '',
+            paragraphs: [],
+            quote: ''
+        },
+        chapter: {
+            title: '',
+            paragraphs: [],
+            quote: ''
+        },
+        chapter: {
+            title: '',
+            paragraphs: [],
+            quote: ''
+        },
     }
 ];
 
