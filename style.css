@@ -216,6 +216,10 @@ main {
     padding: 0 20px;
 }
 
+main#main {
+    padding: 0;
+}
+
 main:is(:first-child) {
     animation: fadeInAnimation 1s ease-in-out;
 }
