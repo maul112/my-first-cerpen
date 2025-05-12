@@ -11,7 +11,7 @@ const texts = [
                 
                 'Apa kabarnya sekarang? Apakah dia masih mengingatku seperti aku mengingatnya saat ini? Ataukah baginya aku hanyalah bagian kecil dari masa lalunya yang tidak lagi penting bahkan untuk diingat? Aku tersenyum pahit. Mungkin, ada kisah yang memang dibiarkan menggantung. Tidak untuk dilanjutkan, tidak pula untuk diakhiri, hanya sekadar mengendap terperangkap di sudut hati, menjadi bagian dari siapa kita di masa lalu.',
             ],
-            quote: 'Entah bagaimana, sudah berusaha aku melupakannya. Namun, seakan memori itu tidak terkikis oleh waktu.'
+            quote: '"Entah bagaimana, sudah berusaha aku melupakannya. Namun, seakan memori itu tidak terkikis oleh waktu."'
         }
     },
     {
@@ -32,7 +32,7 @@ const texts = [
 
                 'Setelah sesi perkenalan selesai, kami mulai membahas acara besar yang akan diadakan di villa nanti. Salah satu bagian pentingnya adalah pertunjukan seni pensi di mana setiap kelompok harus menampilkan sesuatu. Semua orang mulai mengajukan ide, ada yang ingin membuat drama, ada yang ingin tampil dengan musik, ada juga yang iseng mengusulkan komedi absurd. Aku sesekali melirik ke arahnya dengan perasaan penasaran yang tinggi. Dia juga ikut berdiskusi, memberikan pendapat dengan tenang, tapi tetap terdengar tegas. Aku mulai menyadari bahwa meskipun terlihat sedikit aneh, dia memiliki cara berpikir yang menarik. Setiap kata yang dia ucapkan terasa penuh keyakinan, seolah dia tidak ragu dengan apa yang dia katakan. Aku tidak tahu kenapa, tapi itu membuatku ingin mendengar lebih banyak darinya. Tetapi sayangnya, sebagian besar perkataan yang dia lontarkan waktu itu aku lupa. Singkat cerita, setelah perencanaan matang dan semua persiapan selesai, tibalah hari keberangkatan. Kami naik bus bersama-sama menuju villa yang terletak di tempat yang agak jauh dari kampus. Aku terlambat menaiki bus karena sebelum itu aku harus menuntaskan dahulu sebuah praktikum yang sangat sulit untuk mendapatkan perizinan untuk tidak ikut serta menghadiri sehingga aku tidak berada pada tempat duduk yang posisinya tidak berdekatan dengannya. Sepanjang perjalanan, suasana begitu hidup ada yang bercanda, ada yang sibuk mendengarkan musik, ada juga yang hanya menikmati pemandangan dari jendela. Aku merasa senang. Bukan hanya karena bisa pergi ke tempat baru, tapi karena ini adalah kesempatan untuk mengenal lebih banyak orang, bertukar pikiran, dan mungkin menemukan kenyamanan di tengah lingkaran pertemanan baru.',
             ],
-            quote: 'Walaupun kamu aneh dan unik, setidaknya hal itulah yang membuatmu berbeda dan bisa mengalihkan fokusku.'
+            quote: '"Walaupun kamu aneh dan unik, setidaknya hal itulah yang membuatmu berbeda dan bisa mengalihkan fokusku."'
         },
     },
     {
@@ -43,7 +43,7 @@ const texts = [
 
                 'Aku mulai menyadari sesuatu. Cara dia berbicara, cara dia menanggapi ceritaku, cara dia terkadang menyela dengan candaan yang tak terduga, semuanya terasa alami, tidak dibuat-buat. Tidak ada kecanggungan, tidak ada jeda yang canggung. Hanya dua orang yang seakan sudah mengenal satu sama lain lebih lama dari yang sebenarnya. Dan di saat itulah, perasaan aneh mulai merayap di benakku. Mungkin ini bukan sekadar rasa penasaran biasa. Mungkin ini lebih dari sekadar pertemuan kebetulan dalam sebuah kelompok organisasi. Mungkin, di malam ini, di antara cahaya lampu villa yang temaram dan tawa teman-teman yang menggema, aku sedang tanpa sadar mengukir kenangan yang akan sulit kulupakan di masa depan.',
             ], 
-            quote: 'Dengan tidak sengaja, aku bisa duduk disampingmu pertama kali sembari menikmati pentas seni.',
+            quote: '"Dengan tidak sengaja, aku bisa duduk disampingmu pertama kali sembari menikmati pentas seni."',
         },
     },
     {
@@ -54,7 +54,7 @@ const texts = [
 
                 'Obrolan tadi masih berputar-putar di kepalaku. Kata demi kata, diksi demi diksi, semuanya kuulang dalam benakku seolah aku sedang menonton ulang rekaman adegan yang baru saja terjadi. Aku bahkan tersenyum sendiri tanpa sadar. Sebuah perasaan aneh mulai merayap dalam pikiranku. Kenapa aku merasa seakan-akan aku tidak puas? Kenapa aku merasa masih ingin berbicara lebih lama dengannya? Kenapa, dari sekian banyak orang yang hadir di acara ini, justru dia yang paling membekas di ingatanku? Aku menghela napas. Daripada tenggelam dalam pertanyaan-pertanyaan yang tidak akan terjawab setidaknya di malam ini, lebih baik aku mencoba untuk tidur. Aku berharap bahwa akan ada kesempatan esok hari untuk kembali berbicara dengannya, untuk menuntaskan obrolan yang masih menggantung di pikiranku. Namun, baru saja aku merasa mataku mulai berat, suara panitia membangunkan kami dari masing-masing kamar. Pukul 02.00 dini hari. Aku masih setengah sadar ketika kami semua diminta berkumpul di aula villa. Udara malam terasa lebih dingin dari biasanya, membuat kantukku sedikit menghilang. Aku tidak tahu-menahu tentang agenda selanjutnya, tapi aku mengikuti saja arahan dari panitia. Dan ternyata, agenda selanjutnya adalah Api Unggun. Ketika mendengar itu, aku mendadak merasa sedikit bersemangat. Api unggun di tengah malam? Itu artinya kita akan berkumpul dalam baris lingkaran, berbincang dalam kehangatan api yang menyala. Itu artinya, mungkin saja aku bisa kembali berbicara dengannya, mungkin, tanpa gangguan waktu yang terburu-buru seperti seperti agenda sebelum Api Unggun.',
             ],
-            quote: 'Entah kenapa, setelah terlibat percakapan denganmu waktu pentas seni itu, aku mempunyai kemauan untuk mengenalmu lebih jauh.',
+            quote: '"Entah kenapa, setelah terlibat percakapan denganmu waktu pentas seni itu, aku mempunyai kemauan untuk mengenalmu lebih jauh."',
         },
     },
     {
@@ -67,7 +67,7 @@ const texts = [
 
                 'Sebelumnya, kami diminta untuk mengumpulkan kayu bakar yang sudah disiapkan sebelumnya (sebelumnya keberangkatan menuju villa, kami disuruh untuk membawa kayu bakar untuk menyalakan hangatnya api unggun ditengah dinginnya malam di villa). Setiap orang mengumpulkan potongan kayu ke masing-masing LO, yang selanjutnya akan dikumpulkan di tempat di mana tumpukan besar kayu telah tersusun rapi, siap untuk dinyalakan. Mungkin, di sini, di bawah langit malam yang gelap dan di antara cahaya api unggun yang sedikit lama lagi menyala, aku masih punya kesempatan. Kesempatan untuk berbicara dengannya lagi. Atau setidaknya, kesempatan untuk menikmati kehadirannya sekali lagi sebelum malam ini berakhir dan juga menjadi malam yang terakhir.',
             ],
-            quote: 'Sedikit kecewa untuk pertama kalinya, tetapi hal itu tidak bisa aku kontrol dan untungnya kesempatan menyapaku tidak datang hanya satu kali.',
+            quote: '"Sedikit kecewa untuk pertama kalinya, tetapi hal itu tidak bisa aku kontrol dan untungnya kesempatan menyapaku tidak datang hanya satu kali."',
         },
     },{
         chapter: {
@@ -81,7 +81,7 @@ const texts = [
 
                 'Ketika akhirnya api unggun mulai mengecil, kayu-kayu yang tadinya berdiri kokoh kini perlahan berubah menjadi abu dan bara yang berpendar redup. Panitia meminta kami berdiri, mengakhiri malam itu dengan instruksi untuk kembali ke kamar masing-masing dan beristirahat. Aku menghela nafas pelan. Ada rasa enggan yang menyeruak. Kenapa waktu seindah ini terasa begitu cepat berlalu? Seandainya saja bisa, aku ingin sekali menahan waktu lebih lama, membekukan malam itu untuk dinikmati lebih lama. Dengan langkah berat, aku beranjak menuju kamar. Badanku terasa lelah, tapi pikiranku masih dipenuhi hangatnya percakapan, nyala api, dan senyumnya. Di kamar, aku sempat berbagi cerita dengan teman sekamar, obrolan ringan tentang pengalaman singkat namun berkesan itu. Kami tertawa kecil sebelum akhirnya kelelahan menguasai tubuh kami.',
             ],
-            quote: 'Seandainya pada saat moment api unggun itu aku tidak duduk disampingmu dan melihat senyummu, mungkin aku masih merasakan hebatnya cuaca dingin dimalam hari itu.'
+            quote: '"Seandainya pada saat moment api unggun itu aku tidak duduk disampingmu dan melihat senyummu, mungkin aku masih merasakan hebatnya cuaca dingin dimalam hari itu."'
         },
     },
     {
@@ -114,7 +114,7 @@ const texts = [
 
                 `Sampailah kami di tujuan. Panitia kembali mengarahkan kami untuk berkumpul sebelum akhirnya pulang ke kos masing-masing. Sebelum benar-benar berpisah, aku sempat menguji hasil belajarku dalam bahasa daerahnya. Dia tertawa, lalu berkata, “Wih, keren kali kau! Cepat banget belajarnya!” Pujian itu membuatku tersenyum lebar. Rasanya seperti mendapat hadiah atas semua usaha dan rasa yang kupendam. Lalu kami berpisah. Pulang ke kamar masing-masing. Mengistirahatkan tubuh dari perjalanan panjang dan menyimpan kenangan yang entah bagaimana akan terus hidup di dalam hati. Kegiatan telah usai, namun perasaan ini belum. Aku tahu, mungkin tidak akan mudah untuk mengulang momen-momen itu. Tapi aku percaya, sesuatu yang begitu hangat dan tulus... akan selalu menemukan jalannya untuk kembali.`,
             ],
-            quote: 'Entahlah, aku tidak akan menang cerita jika berada di kerumunan, mungkin aku butuh suasana yang lebih tenang dan damai untuk bisa bertukar cerita.'
+            quote: '"Entahlah, aku tidak akan menang cerita jika berada di kerumunan, mungkin aku butuh suasana yang lebih tenang dan damai untuk bisa bertukar cerita."'
         },
     },
     {
@@ -169,7 +169,7 @@ const texts = [
 
                 'Kami pun berangkat. Tujuan kami bukan pantai dengan pasir putih membentang atau kafe mewah di pinggir laut, tapi sebuah tempat sederhana: jalan kecil yang sedikit menjorok ke arah laut, semacam dermaga mini dengan tempat duduk seadanya. Di sanalah orang-orang biasa nongkrong, menyeruput minuman hangat sambil menatap laut lepas yang bersahabat ditemani senja yang perlahan turun. Begitu sampai, aku lega. Tempatnya tidak mengecewakan. Meski sederhana, suasananya justru memberi rasa hangat. Angin laut berembus pelan, aroma garam menyatu dengan hawa lembap yang menenangkan. Kami langsung memesan minuman bukan kopi, meskipun tempatnya seperti mengajak untuk menyeruput kopi hangat. Aku lupa kami pesan apa waktu itu, mungkin teh, atau minuman manis dingin. Tak penting rasanya, karena yang utama adalah percakapan yang akan terjadi.',
 
-                'Kami beruntung masih kebagian tempat duduk di tengah keramaian sore itu. Meja kayu sederhana, dua kursi plastik yang sedikit berderit waktu kami duduk. Tapi itu cukup. Lebih dari cukup. Lalu percakapan itu mengalir. Seperti sungai yang melimpah setelah hujan. Dia, dengan gaya khasnya, cepat, lantang, penuh semangat membawa obrolan dari satu topik ke topik lainnya. Rasanya seperti sedang membuka buku yang penuh kejutan di setiap halamannya. Ia bercerita tentang kehidupan kuliah, tentang momen-momen ospek yang lucu dan memalukan, tentang guru matematika favoritnya yang membuat rumus-rumus rumit terasa menyenangkan. Aku tersenyum, karena aku juga suka matematika. Dan di sanalah, kami sejenak tenggelam dalam obrolan kecil tentang logika dan angka, di tengah tempat yang jauh dari hitungan-hitungan eksak.',
+                'Kami beruntung masih kebagian tempat duduk di tengah keramaian sore itu. Meja kayu sederhana, dua kursi plastik yang sedikit berderit waktu kami duduk. Tapi itu cukup. Lebih dari cukup. Lalu percakapan itu mengalir. Seperti sungai yang melimpah setelah hujan. Dia, dengan gaya khasnya, cepat, lantang, penuh semangat membawa obrolan dari satu topik ke topik lainnya. Rasanya seperti sedang membuka buku yang penuh kejutan di setiap halamannya. Ia bercerita tentang kehidupan kuliah, tentang keluh kesah dia di kuliah karena terlalu banyak tugas, tentang momen-momen ospek yang lucu dan memalukan, tentang guru matematika favoritnya yang membuat rumus-rumus rumit terasa menyenangkan. Aku tersenyum, karena aku juga suka matematika. Dan di sanalah, kami sejenak tenggelam dalam obrolan kecil tentang logika dan angka, di tengah tempat yang jauh dari hitungan-hitungan eksak.',
 
                 'Kemudian, entah bagaimana, topik berpindah pada pernikahan. Ia tertawa menceritakan bahwa adat pernikahan di daerah asalnya butuh biaya besar. “Mahal banget! Bisa-bisa kerja tiga tahun cuma buat itu,” candanya, diiringi tawa lepas yang membuat sore itu terasa lebih hidup. Aku memperhatikan wajahnya. Cerah. Antusias. Tidak ada canggung di antara kami. Seperti dua sahabat lama yang akhirnya dipertemukan kembali oleh waktu. Di sela gelak tawa dan suara angin, tiba-tiba aku terpikir sesuatu. Suaranya yang khas, penuh warna, jujur, dan hidup. Entah mengapa aku ingin mengabadikannya. Mungkin karena aku tahu, momen seperti ini mungkin suatu saat tidak akan terjadi lagi.',
 
@@ -179,7 +179,7 @@ const texts = [
 
                 'Kami akhirnya kembali ke tempat masing-masing, berboncengan pulang selagi langit belum benar-benar gelap. Tak ada pelukan perpisahan, tak ada kata yang terlalu manis. Tapi ada rasa hangat yang tertinggal. Dan itulah, mungkin, memori singkat pertama yang benar-benar kuabadikan bersamanya. Bukan hanya dalam bentuk rekaman atau video, tapi dalam ingatan yang barangkali akan tetap ada, bahkan ketika file-file digital itu hilang.',
             ],
-            quote: 'Untuk pertama kali aku dengannya bisa mengobrol berdua dan pertama kalinya juga aku bisa mengabadikan momen bersamanya. Sedikit sekali gangguan, hanya ditemani suara ombak yang bergulung dan suara keramaian orang-orang disana yang tidak sekali mengganggu.'
+            quote: '"Untuk pertama kali aku dengannya bisa mengobrol berdua dan pertama kalinya juga aku bisa mengabadikan momen bersamanya. Sedikit sekali gangguan, hanya ditemani suara ombak yang bergulung dan suara keramaian orang-orang disana yang tidak sekali mengganggu."'
         },
     },
     {
@@ -333,22 +333,17 @@ const texts = [
                 'Perjalanan pulang itu seperti melanjutkan irama yang sempat tertunda. Di jalan, kami bicara seadanya, tertawa pelan, dan kadang saling diam namun tahu bahwa masing-masing sedang mengingat sesuatu dari hari itu. Aku tidak tahu apakah dia sadar bahwa perasaanku perlahan tumbuh hari ini. Tapi aku tahu satu hal dengan pasti: hari itu telah menjadi salah satu hari paling berarti dalam hidupku. Bukan karena senjanya saja. Tapi karena aku melewatinya bersama dia.',
 
                 'Dan perekaman itu terus berjalan. Tak akan kumatikan sampai aku benar-benar tiba di tempatku. Karena aku tahu, suatu saat nanti ketika rindu datang tiba-tiba, aku hanya perlu memutarnya walaupun tidak akan bisa sepenuhnya mengobati rasa rindu. Mendengar suaranya, mendengar versi kita yang sederhana, dan mengingat bahwa pernah ada satu sore di pelabuhan kecil, tempat aku jatuh cinta dalam diam.',
-                '',
-                '',
-                '',
-                '',
-                '',
-                '',
-                '',
-                '',
-                '',
-                '',
-                '',
-                '',
             ],
-            quote: ''
-        }
+            quote: '"Menikmati senja adalah kedamaian terindah, tetapi akan lebih damai dan indah apabila dipadukan oleh senyum yang tergambar jelas di wajahmu dan mengabadikannya."',
+            image: ''
+        },
     },
+    {
+        chapter: {
+            title: 'Bagian 3: Akhir',
+            subtitle: 'Kita pulang',
+        }
+    }
 ];
 
 texts.forEach((text, index) => {
@@ -397,12 +392,30 @@ texts.forEach((text, index) => {
     `;
     chapterHeader.appendChild(topPageDecorator);
 
-    // console.log(text.paragraphs);
     text.chapter.paragraphs.forEach(paragraph => {
         let paragraphElement = document.createElement('p');
         paragraphElement.textContent = paragraph;
         section.appendChild(paragraphElement);
     });
+<div class="image-placeholder">
+    <div class="image-frame">
+        <div class="image-text">Ilustrasi Taman Sakura</div>
+    </div>
+</div>
+    if(text.chapter.image) {
+        let imagePlaceholder = document.createElement('div');
+        imagePlaceholder.classList.add('image-placeholder');
+    
+        let imageFrame = document.createElement('div');
+        imageFrame.classList.add('image-frame');
+    
+        let image = document.createElement('img');
+        image.src = text.chapter.image;
+    
+        imageFrame.appendChild(imageText);
+        imagePlaceholder.appendChild(imageFrame);
+        section.appendChild(imagePlaceholder);
+    }
 
     if(text.chapter.quote) {
         let quoteBox = document.createElement('div');
