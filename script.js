@@ -335,7 +335,7 @@ const texts = [
                 'Dan perekaman itu terus berjalan. Tak akan kumatikan sampai aku benar-benar tiba di tempatku. Karena aku tahu, suatu saat nanti ketika rindu datang tiba-tiba, aku hanya perlu memutarnya walaupun tidak akan bisa sepenuhnya mengobati rasa rindu. Mendengar suaranya, mendengar versi kita yang sederhana, dan mengingat bahwa pernah ada satu sore di pelabuhan kecil, tempat aku jatuh cinta dalam diam.',
             ],
             quote: '"Menikmati senja adalah kedamaian terindah, tetapi akan lebih damai dan indah apabila dipadukan oleh senyum yang tergambar jelas di wajahmu dan mengabadikannya."',
-            image: ''
+            image: './img/chapter13.jpg'
         },
     },
     {
@@ -400,6 +400,7 @@ const texts = [
                 'Malamnya, saat aku sudah di kos, sebuah pesan masuk darinya. Sebuah foto. Dia menunjukkan hasil jepretan temannya yang sengaja. Aku dan dia, tertangkap kamera saat kami berjalan berdua di pantai. Tak berpegangan tangan, tak juga terlalu dekat. Tapi aura itu, terekam jelas. Dan aku berpikir mungkin, hanya mungkin foto itu dia kirim bukan hanya untuk dibagi. Tapi sebagai pesan diam. Agar aku menyimpannya. Agar aku mengingat momen itu. Dan ya... aku simpan foto itu baik-baik. Seperti aku menyimpan rasa ini. Aku simpan foto itu baik-baik untuk mengenang hari di mana senja tak hanya turun dari langit tapi juga turun dalam hatiku, aku menyimpannya hingga aku menulis cerpen ini.',
             ],
             quote: '"Hari itu, dimana alam seakan menuliskan alur tersendiri untuk kita mengukir kisah cerita kita berdua."',
+            image: './img/chapter14.jpg'
         }
     },
     {
@@ -434,6 +435,7 @@ const texts = [
 ];
 
 texts.forEach((text, index) => {
+    console.log(text.chapter.title);
     let main = document.getElementById('main');
 
     let container = document.createElement('div');
@@ -484,7 +486,7 @@ texts.forEach((text, index) => {
         paragraphElement.textContent = paragraph;
         section.appendChild(paragraphElement);
     });
-    
+
     if(text.chapter.image) {
         let imagePlaceholder = document.createElement('div');
         imagePlaceholder.classList.add('image-placeholder');
@@ -495,7 +497,7 @@ texts.forEach((text, index) => {
         let image = document.createElement('img');
         image.src = text.chapter.image;
     
-        imageFrame.appendChild(imageText);
+        imageFrame.appendChild(image);
         imagePlaceholder.appendChild(imageFrame);
         section.appendChild(imagePlaceholder);
     }
