@@ -340,8 +340,95 @@ const texts = [
     },
     {
         chapter: {
-            title: 'Bagian 3: Akhir',
-            subtitle: 'Kita pulang',
+            title: 'Beramai-ramai di Pantai',
+            paragraphs: [
+                'Salah satu hal paling berat dalam hidup adalah menahan rindu. Ia tidak terlihat, tidak bersuara, namun terasa menyesakkan dada. Rindu seperti benang halus yang perlahan melilit hati, semakin hari semakin erat, menjerat tanpa ampun. Dan hari itu, aku benar-benar sudah tak sanggup lagi menahannya. Aku ingin sekali mengulang momen sederhana yang pernah begitu membekas ketika kami duduk berdua di atas motor, berdekatan, menatap senja yang perlahan tenggelam ke lautan. Tidak ada kata yang perlu diucap waktu itu. Hanya diam. Tapi diam yang penuh makna. Diam yang mampu menyampaikan rasa lebih dari seribu kalimat. Saat itu, seolah dunia berhenti sebentar, membiarkan kami menyatu dalam warna jingga yang perlahan memudar.',
+
+
+                'Karena rindu yang menggumpal itu sudah begitu berat, aku memberanikan diri mengirim pesan padanya. Jemariku sedikit bergetar, bukan karena takut ditolak, tetapi karena aku tahu, aku sedang berharap lebih. Maka, dengan segenap keberanian yang tersisa, aku membuka percakapan dengannya.',
+
+                '"Kamu ada waktu kosong ga?" tanyaku, menyembunyikan rindu dalam kalimat sesederhana itu.',
+
+                '"Iya lagi kosong nih, kenapa?"',
+
+                '"Ayo ke pantai lagi."',
+
+                'Hanya itu. Harapan yang kutitipkan dalam tiga kata.',
+
+                '"Pas banget ayo, aku juga mau ke pantai bareng teman-temanku."',
+
+                'Aku terdiam sesaat membaca balasannya. Senang? ya, tentu. Ajakanku diterima. Tapi juga kecewa yang diam-diam menyelinap. Tetapi kenapa bukan hanya kita berdua? Kenapa harus dengan teman-temannya juga? Aku membayangkan kita hanya berdua, membicarakan hal-hal kecil seperti waktu itu, tertawa karena angin yang meniup rambutnya berantakan, atau diam bersamaan saat senja menguap perlahan di cakrawala. Aku tahu, ini bukan salahnya. Dia tak tahu bahwa dalam ajakan itu, aku menyisipkan harapan tersembunyi. Bahwa momen pantai itu akan menjadi milik kita berdua saja, sebuah ruang kecil untuk mengenang dan membangun kenangan baru. Tapi dia menyebut "teman-teman", dan seketika harapanku bergetar. Aku adalah orang introvert. Keramaian sering membuatku kehilangan tempat untuk bernapas. Di tengah banyak orang, fokusnya akan terbagi, dan aku hanya akan menjadi bayangan. Padahal aku ingin menjadi cahayanya, walau sebentar. Namun aku coba menepis kecewa. Mungkin ini saatnya aku belajar menerima. Mungkin ini adalah kesempatan untuk mengenal lebih dekat dunianya, dunianya yang ramai, penuh tawa teman-temannya. Lagipula, tak ada yang salah dengan sedikit keramaian, selama dia ada di sana. Jadi, dengan semangat yang aku susun kembali dari kepingan-kepingan harapan, aku bersiap menuju caffee pantai yang telah kutandai sejak lama.',
+
+                'Aku pun meminjam motor temanku. Ah, temanku, seseorang yang tak tahu bahwa pinjamannya hari itu menyelamatkan hatiku dari runtuhnya kerinduan. Untukmu, temanku, terima kasih.',
+
+                'Akhirnya kita berangkat beramai-ramai dengan teman-temannya yang juga antusias dengan pantai. Mereka juga seperti anak kecil yang kegirangan karena akan menemukan hal yang baru. Sempat juga mendapatkan ejekan dari temannya karena aku pergi ke pengisian bensin untuk mengisi bahan bakar motor. "Gimana sih yang ngajak, minyaknya aja lupa diisi" celetupnya bercanda. Terkesan sedikit mengejek tetapi dari situlah aku menemukan suasana yang lebih hidup dan bervariasi. Dari sebelumnya aku berpikiran kalau aku akan menjadi orang yang kaku ketika di pantai nanti, sekarang pikiran itu hilang sama sekali. Dari sedikit candaan itulah aku merasa lebih hidup bersama mereka.',
+
+                'Selesai aku mengisi bahan bakar dan sedikit candaan itu sudah usai, bernagkatlah kita menuju caffee itu. Tiba-tiba aku dengan spontan mengambil ponselku untuk mengajak dia untuk mengambil gambar berdua. Dia tanpa menolak dan tanpa keberatan langsung meng-ia-kan ke spontananku itu. Satu gambar sudah terabadikan. Aku merasa kaget sekaligus pertanyaan kecil muncul "Mungkinkah perasaan dia juga mulai tumbuh? Ah, hal kecil itu saja tidak perpengaruh". Berangkatlah kita menuju caffee itu dan tak lupa juga aku merekam percakapan kita selama perjalanan.',
+
+                'Kami kembali melanjutkan perjalanan, tapi sialnya aku lupa lokasi caffe itu. Kami nyasar. Untung saja salah satu temannya punya ide untuk menuju ke pantai pesisir. Pantainya sepi. Hening. Tapi cantik, terlihat dari jauh jembatan panjang yang membelah lautan, berdiri megah seolah menyambut senja menjadi penghias.',
+
+                'Kami sampai. Teman-temannya langsung sibuk dengan selendang khas dari daerah mereka. Berpose. Tertawa. Mengabadikan setiap detik. Aku hanya berdiri, menikmati bagaimana mereka menjadikan sore itu seperti panggung kecil penuh warna.',
+
+                'Lalu, alam seakan merencanakan sesuatu yang lain. Dia menarik tanganku, “Yuk, ke sana. Mau lihat lebih jauh.”',
+
+                'Tak ada yang ikut. Hanya kami berdua. Dunia mendadak sunyi. Rasanya seperti berada di film dunia lain yang hanya diperankan oleh dua tokoh: aku dan dia. Kita berjalan jauh, menyusuri bibir pantai yang berpasir lembut, sambil membicarakan hal-hal remeh. Dia tampak begitu antusias, matanya bersinar seperti anak kecil yang baru menemukan mainan baru. Aku tak banyak bicara. Aku lebih suka mengamati dia, bagaimana ia menyibak rambut yang tertiup angin, bagaimana ia memotret karang kecil di pasir, bagaimana ia tertawa karena tersandung kerikil. Aku merekamnya. Bukan hanya dengan kamera ponsel, tapi dengan hatiku.',
+
+                'Senja perlahan datang. Langit berubah warna menjadi jingga kemerahan. Kami duduk di sebuah batu besar, berbentuk tabung, seperti tumpukan drum raksasa tersusun rapi. Angin laut lembut, suara ombak menjadi latar dari diam kita. Tak ada kata-kata, hanya desiran hati. Dan senja itu, ia menjadi saksi.',
+
+                '"Indah, ya," gumamnya lirih.',
+
+                'Aku mengangguk. Tapi sebenarnya, keindahan yang kulihat hari itu bukan hanya pada langit. Tapi pada dirinya.',
+                
+                'Sebelum kami kembali, aku meminta satu foto lagi.',
+
+                '"Yuk foto sebelum pulang."',
+
+                'Dia tersenyum.',
+
+                'Klik.',
+
+                'Foto itu buram, gelap, burik sekali karena kurangnya pencahayaan ditambah hpku yang memang kentang haha. Tapi anehnya, itu menjadi foto paling terang yang pernah aku simpan.',
+
+                'Kami kembali dan bertemu teman-temannya. Tentu saja, mereka menggoda.',
+
+                '"Lama banget, kalian pacaran ya?"',
+
+                '"Enggak lah, cuma lihat-lihat pantai," jawabnya.',
+
+                'Tapi senyumku tak bisa kusembunyikan. dalam hatiku mereka seperti merestui kita.',
+
+                'Malamnya, saat aku sudah di kos, sebuah pesan masuk darinya. Sebuah foto. Dia menunjukkan hasil jepretan temannya yang sengaja. Aku dan dia, tertangkap kamera saat kami berjalan berdua di pantai. Tak berpegangan tangan, tak juga terlalu dekat. Tapi aura itu, terekam jelas. Dan aku berpikir mungkin, hanya mungkin foto itu dia kirim bukan hanya untuk dibagi. Tapi sebagai pesan diam. Agar aku menyimpannya. Agar aku mengingat momen itu. Dan ya... aku simpan foto itu baik-baik. Seperti aku menyimpan rasa ini. Aku simpan foto itu baik-baik untuk mengenang hari di mana senja tak hanya turun dari langit tapi juga turun dalam hatiku, aku menyimpannya hingga aku menulis cerpen ini.',
+            ],
+            quote: '"Hari itu, dimana alam seakan menuliskan alur tersendiri untuk kita mengukir kisah cerita kita berdua."',
+        }
+    },
+    {
+        chapter: {
+            title: 'Rasa Ragu yang Besar',
+            paragraphs: [
+                'Aku berada dalam satu fase yang paling berat dalam hidupku, fase ketika keraguan datang bukan seperti kabut yang perlahan menyelimuti, tetapi seperti batu besar yang menghantam keras dadaku, menghempaskanku hingga nyaris tak bisa bernapas. Aku terhenyak oleh kenyataan yang perlahan terbentuk: bahwa setelah semua yang terjadi, setelah pantai-pantai yang kita datangi bersama walau kadang diselingi kehadiran teman-temannya, kedekatan yang kuharapkan tumbuh justru mulai mengabur. bahkan aku merasa bahwa kita sekarang malah semakin jauh.',
+
+                'Entah sejak kapan semua berubah. Yang jelas, aku mulai merasakannya. Sebuah jarak yang tidak terlihat namun nyata. Dulu, setiap pesan yang kukirim terasa hangat dibalasnya. Sekarang? Pesanku mengambang seperti ombak kecil yang tak sampai ke pesisir pantai. Balasan yang singkat, dan seringnya tidak pernah datang. Ajakanku yang dulunya hampir selalu diterima, sekarang lebih banyak ditolak tanpa penjelasan.',
+
+                'Aku tahu, sungguh aku tahu, bahwa dia memang sedang sibuk. Tugasku sendiri pun menumpuk seperti orang kantoran. Tapi, entah kenapa, dalam hatiku terus berbisik "Kalau seseorang benar-benar suka, sesibuk apapun, pasti ada waktu walau hanya sekedar bertanya: ‘Kamu gimana?’ atau sekedar membalas sepotong kalimat." Apakah aku terlalu banyak menuntut? Apakah aku terlalu larut dalam ekspektasi?',
+
+                'Malam-malamku berubah menjadi ruang gelap penuh pertanyaan yang tak kunjung mendapat jawaban. Pikiran buruk itu datang seperti tamu tak diundang, duduk dengan nyaman di kepalaku. Aku coba mengusirnya, tetapi ia terlalu kuat. Apakah dia benar-benar pernah punya rasa yang sama kepadaku? Atau aku hanyalah teman biasa yang kebetulan membuatnya senang sesekali?',
+
+                'Kepalaku menjadi labirin. Semakin aku berjalan di dalamnya, semakin aku tersesat. Aku mulai mempertanyakan segalanya bukan hanya tentang dia, tapi tentang diriku sendiri. Apakah aku sedang mempunyai perasaan kepadanya sungguhan? Ataukah ini hanya bias perasaan yang lahir karena kesepian? Apakah aku sedang mengejar seseorang, atau justru sedang berusaha meyakinkan diriku bahwa aku pantas dicintai?',
+
+                'Semua kenangan kembali menghantui. Audio tawa kami yang terekam, foto siluet senja di belakangnya, video-video pendek saat dia menyusuri pantai, atau ketika dia tiba-tiba menerima ajakan fotoku tanpa penolakan. Aku menyimpan semuanya. Rapi. Terorganisir. Seperti seseorang yang takut kehilangan bagian paling penting dari hidupnya. Tapi kini aku sadar, mungkin justru itu yang membuatku tidak bisa benar-benar lepas.',
+
+                'Aku mulai merasa kekanak-kanakan. Emosiku terlalu besar untuk hal yang bahkan belum memiliki nama. Kita tak pernah secara eksplisit mendefinisikan hubungan ini, bukan? Tapi aku memperlakukannya seperti sesuatu yang istimewa. Seperti sesuatu yang bernilai dan harus diperjuangkan. Aku tahu diantara kita seperti tertanam tembok cina yang berdiri kokoh dan membentang sepanjang kurang lebih 21.000KM. Tiba-tiba aku merenung dalam-dalam: Apakah aku mempunya rasa kepadanya? Atau aku hanya takut kehilangan seseorang yang memberiku rasa nyaman? Pertanyaan itu semakin membuatku tersesat dalam diriku sendiri.',
+
+                'Aku mulai kehilangan fokus dalam banyak hal. Tugasku terbengkalai. Konsentrasiku buyar. Bahkan dalam keramaian pun aku merasa sendiri. Aku hidup di antara harapan dan kenyataan yang saling bertabrakan seperti ombak dan karang. Aku menyimpan rasa, tapi tak tahu apakah rasa itu layak diteruskan. Aku memiliki memori, tapi tak tahu apakah aku satu-satunya yang menyimpannya.',
+
+                'Dan dari kesadaran itulah aku mulai menulis ini. Sebuah cerpen. Sebuah bentuk perpisahan diam-diam, bentuk penghapusan memori permanen. Aku ingin meninggalkan semuanya, bukan dengan marah, bukan dengan dendam, tetapi dengan sepenuh hati yang telah lelah berharap. Aku tidak ingin terus berlari dalam lingkaran rindu yang tak pernah selesai. Aku ingin berhenti. Berhenti berharap pada seseorang yang bahkan mungkin tak pernah menoleh ke arahku seperti aku menoleh ke arahnya.',
+
+                'Cerpen ini bukan sekadar tulisan. Ini adalah peresmian. Bahwa mulai sekarang, aku akan menghapus semuanya. Foto-foto itu akan masuk Recycle Bin. Video-video tawa itu akan hilang sama sekali dalam tiga puluh hari. Mungkin aku akan menyesal. Tapi tidak apa-apa. Aku hanya ingin tahu rasanya benar-benar melepaskan. Karena aku sadar, selama ini aku tidak benar-benar berusaha melupakannya. Aku hanya berpura-pura. Dan hari ini, saat aku menulis paragraf terakhir ini, aku ingin berjanji pada diriku sendiri,aku akan benar-benar mencoba. Bukan dengan membenci, tapi dengan merelakan.',
+
+                'Selamat tinggal. Untuk kamu, untuk senja itu, untuk motor di tepi pantai, dan untuk aku yang pernah percaya bahwa kita searah.',
+            ],
+            quote: '"Sekarang, mengetahui bahwa kamu baik-baik saja disana itu sudah cukup untukku. Terima kasih telah sedikit menghiasi hidupku."'
         }
     }
 ];
@@ -372,7 +459,7 @@ texts.forEach((text, index) => {
     chapterHeader.classList.add('chapter-header');
 
     let bagian = document.createElement('h2');
-    bagian.textContent = 'Bagian ' + (index + 1);
+    bagian.textContent = 'Chapter ' + (index + 1);
 
     let chapterTitle = document.createElement('h2');
     chapterTitle.textContent = text.chapter.title;
@@ -397,11 +484,7 @@ texts.forEach((text, index) => {
         paragraphElement.textContent = paragraph;
         section.appendChild(paragraphElement);
     });
-<div class="image-placeholder">
-    <div class="image-frame">
-        <div class="image-text">Ilustrasi Taman Sakura</div>
-    </div>
-</div>
+    
     if(text.chapter.image) {
         let imagePlaceholder = document.createElement('div');
         imagePlaceholder.classList.add('image-placeholder');
