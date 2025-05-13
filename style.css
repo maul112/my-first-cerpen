@@ -396,6 +396,24 @@ footer {
     font-size: 0.9rem;
 }
 
+footer div.kdm {
+    margin-bottom: 1rem;
+}
+
+footer p.first-child {
+    margin-bottom: 0;
+}
+
+footer span {
+    text-align: left !important;
+}
+
+footer span a {
+    display: block;
+    color: black;
+    cursor: pointer;
+}
+
 .footer-decoration {
     height: 1px;
     background: linear-gradient(to right, transparent, #e6a4b4, transparent);
